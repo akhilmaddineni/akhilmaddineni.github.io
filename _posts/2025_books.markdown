@@ -1,0 +1,4 @@
+---
+layout: none
+redirect_to: https://docs.google.com/spreadsheets/d/e/2PACX-1vQR7pHCWwr5IgrK5k50AzaGeZuvGb9tG7jkFpRyJk_elsESF1xGbxN9w9y0k4N8h5gob0OI6fCAJ2ZQ/pubhtml?gid=0&single=true
+---
